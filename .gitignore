@@ -1,8 +1,2 @@
-.vscode/settings.json
-*node_modules/
+node_modules/*
 *.json
-*.hintrc
-
-# ignore all txt files in the every directory
-*.txt
-
